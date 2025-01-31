@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Excel, Power BI, SQL**
 
-- 📫 How to reach me **sahilmishra583@gmail.com**
+- 📫 How to reach me **sahilmishr10@gmail.com**
 
 - ⚡ Fun fact **Turning chaos into charts**
 
